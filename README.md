@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of an AI coding agent built as part of the "Build an AI Agent in Python" course from Boot.dev. The course focuses on creating an LLM-powered command-line program using Google's Gemini API that can read, update, and execute Python code. It serves as a toy agentic code editor, demonstrating concepts like function calling, feedback loops, and working with large language models to build autonomous agents. For the full course with 4 chapters (LLMs, Functions, Function Calling, Agents) and interactive lessons, visit Boot.dev's Build an AI Agent in Python.
+This repository contains the implementation of an AI coding agent built as part of the "Build an AI Agent in Python" course from Boot.dev. The course focuses on creating an LLM-powered command-line program using Google's Gemini API that can read, update, and execute Python code. It serves as a toy agentic code editor, demonstrating concepts like function calling, feedback loops, and working with large language models to build autonomous agents.
 
 The agent operates within a restricted working directory (./calculator) for security, allowing it to list files, read contents, run Python scripts, and write files only in that sandbox. The repository includes a calculator folder for test purposes, where you can place sample files (e.g., simple Python scripts) to interact with the agent safely.
 
